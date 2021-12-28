@@ -2,8 +2,7 @@
 
 ## Team members
 
-[![ForTheBadge built-by-developers](https://img.shields.io/badge/-Divyanshu%20Parwal-orange?style=for-the-badge)](https://github.com/DivyanshuParwal)
-<space><space>
+
 [![ForTheBadge built-by-developers](https://img.shields.io/badge/-Anuj%20Gupta-ff69b4?style=for-the-badge)](https://github.com/anuj9090)
 <space><space>
 [![ForTheBadge built-by-developers](https://img.shields.io/badge/-Ayush%20Gupta-yellow?style=for-the-badge)](https://github.com/Ayushgup85)
@@ -80,4 +79,4 @@ We would like to go-live with the Minimum Viable Product (MVP) and on-board user
 
 ## Video link
 
-[![ForTheBadge built-by-developers](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/XS5UORNvrlI)
+[![ForTheBadge built-by-developers](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/hyzCurh6MIo)
